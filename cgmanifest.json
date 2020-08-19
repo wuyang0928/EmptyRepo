@@ -1,0 +1,20 @@
+{
+  "registrations": [
+    {
+      "Component": {
+        "Type": 2,
+        "Npm": {
+          "Name": "css-what",
+          "Version": "1.0.0"
+        }
+      },
+      "PolicyProperties": {},
+      "IsManual": false,
+      "DependencyRoots": null,
+      "DetectedComponentLocations": [
+        "/cgmanifest.json"
+      ],
+      "DevelopmentDependency": false
+    }
+  ]
+}
